@@ -12,7 +12,7 @@ I'm currently working as a ***Software Engineer*** at [barqun](https://barqun.co
 ## 💻 Tech Experiences
 - Languages: PHP, Golang, Javascript(fullstack), Python.
 - Frameworks: Laravel, ReactJs, ExpressJs, Go Fiber, Gin Gonic, Tailwind.
-- Fields: Frontend/Fullstack Development, Web Scrapping and Data Collection.
+- Fields: Fullstack Development, Backend, Web Scrapping.
 
 ***And, I would be open-mind to learning other Tech Stacks if needed.***
 
