@@ -20,7 +20,6 @@ I'm currently working as a ***Software Engineer*** at [barqun](https://barqun.co
 - Email: [ali.sholihin7@gmailc.om](mailto:ali.sholihin7@gmail.com)
 - Instagram: [@merajutkode](https://instagram.com/merajutkode)
 - Instagram: [@ali.sholihin7](https://instagram.com/ali.sholihin7)
-- Twitter: [@gadingnstn](https://twitter.com/aliii04)
 - Telegram: [@alisholihin7](https://t.me/alisholihin7)
 
 ---
