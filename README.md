@@ -21,7 +21,7 @@ I'm currently working as a ***Software Engineer*** at [barqun](https://barqun.co
 - Instagram: [@merajutkode](https://instagram.com/merajutkode)
 - Instagram: [@ali.sholihin7](https://instagram.com/ali.sholihin7)
 - Telegram: [@alisholihin7](https://t.me/alisholihin7)
-
+- Blog : [alisholihin.pages.dev](https://alisholihin.pages.dev)
 ---
 
 © 2023 — Ali Sholihin
