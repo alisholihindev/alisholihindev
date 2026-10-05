@@ -1,27 +1,41 @@
+# Hi, I'm Ali Sholihin 👋
 
-<h1 align="center">Hi 👋, I'm Ali Sholihin</h1>
-<div align="center">
-</div> 
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+**Backend-focused Fullstack Engineer** from Indonesia, building APIs, data platforms, and real-time systems. Open to remote work.
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alisholihindev&label=Profile%20views&color=0e75b6&style=flat" alt="alisholihindev" /> </p>
+I like turning messy, manual processes into reliable, automated systems — from database schema and APIs to deployment and the device on the other end of the wire.
 
-## 💼 Career
-I'm currently working as a ***Software Engineer*** at [barqun](https://barqun.com). I am creating this IT consultant company with my friend.
+## What I'm working on
 
-## 💻 Tech Experiences
-- Languages: PHP, Golang, Javascript(fullstack), Python.
-- Frameworks: Laravel, ReactJs, ExpressJs, Go Fiber, Gin Gonic, Tailwind.
-- Fields: Fullstack Development, Backend, Web Scrapping.
+Currently the sole engineer behind a digital operations platform for a forestry and carbon-trading company (Sinarmas Mining business unit):
 
-***And, I would be open-mind to learning other Tech Stacks if needed.***
+- **Geospatial systems** — concession area management and land monitoring on PostgreSQL + PostGIS
+- **Carbon accounting** — automated carbon stock calculation, cutting reporting time from 10 days to 2
+- **Real-time IoT** — weather station and fire sensor data pipeline over MQTT (EMQX)
+- **Computer vision** — YOLO-based smoke and fire detection on CCTV, trained on a ~6,000-image custom dataset
+- **Field app** — Flutter app for patrol and biodiversity data collection in low-connectivity areas
 
-## 🚀 How to reach me:
-- Email: [ali.sholihin7@gmailc.om](mailto:ali.sholihin7@gmail.com)
-- Instagram: [@merajutkode](https://instagram.com/merajutkode)
-- Instagram: [@ali.sholihin7](https://instagram.com/ali.sholihin7)
-- Telegram: [@alisholihin7](https://t.me/alisholihin7)
-- Blog : [alisholihin.pages.dev](https://alisholihin.pages.dev)
----
+I also co-founded [Barqun Digital](https://barqun.com), a software house where I've delivered 10+ client projects since 2018.
 
-© 2023 — Ali Sholihin
+## Featured projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| [Pickapic](https://github.com/alisholihindev/pickapic) | Local desktop app to clean up photo libraries: finds exact duplicates, near-duplicates, blurry shots, and geotag issues. Fully offline. | Python, Flet, SQLite, OpenCV, hnswlib |
+| TapakPeta *(private, in progress)* | Offline maps for field work: saved areas, GPS tracks with elevation profiles, points and polygons, GPX/KML export, georeferenced PDF layers. | Flutter, Dart, SQLite, Drift, Riverpod |
+
+## Tech stack
+
+**Languages:** JavaScript, TypeScript, Go, PHP, Python, Dart, SQL
+**Backend:** Node.js, Express, Laravel, Gin, Go Fiber, REST APIs, Microservices
+**Frontend & Mobile:** Vue.js, React, Tailwind CSS, Flutter
+**Data, GIS & IoT:** PostgreSQL, PostGIS, MySQL, SQLite, MQTT (EMQX)
+**AI/ML:** YOLO, OpenCV
+**DevOps:** Docker, Kubernetes, Nginx, Linux
+
+## Get in touch
+
+- Email: [ali.sholihin7@gmail.com](mailto:ali.sholihin7@gmail.com)
+- LinkedIn: [linkedin.com/in/ali-sholihin7](https://www.linkedin.com/in/ali-sholihin7/)
+- Website: [ali-sh.pages.dev](https://ali-sh.pages.dev)
+
+Off the keyboard, I'm a licensed amateur radio operator — **YD7UOG**. 📻
